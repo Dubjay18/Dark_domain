@@ -2,7 +2,7 @@
   "name": "dark-domain",
   "displayName": "Dark Domain",
   "description": "Jay's theme!",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "Dubjay",
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
     "code"
   ],
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
